@@ -1,0 +1,31 @@
+
+
+
+
+h1.do{
+	border-style: dotted;
+}
+
+.dashed{
+	border-style: dashed;
+}
+h1.solid{
+	border-style: solid;
+}
+
+p{
+	font-family: fantasy;
+}
+
+
+#titre2 {
+color: green ; 
+text-align: left;
+background: red;
+margin-left: 100px ;
+margin-right: 150px;
+
+}
+p{
+	color: #E68651;
+}
